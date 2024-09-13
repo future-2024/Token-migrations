@@ -1,0 +1,23 @@
+.header-section {
+    height: 60px;
+    padding: 20px 30px;
+}
+.bg-secondary-2 {
+    background-color: #61788d85;
+}
+.eth-logo {
+    width: 20px;
+    height: 20px;
+}
+.btn-round {
+    border-radius: 15px;
+    padding: 10px 25px;
+    color: #c3caf7;
+    margin: 0 5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.btn-round:hover {
+    background-color: #6c849b85;
+    transition-duration: 300ms;
+}
